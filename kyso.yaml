@@ -1,0 +1,5 @@
+title: "Sommartävlingen - Using Generalized Additive Models to predict District Heating consumption"
+
+description: "In this Notebook we use GAMs to predict District Heating consumption"
+
+main: filipw-admission.md
