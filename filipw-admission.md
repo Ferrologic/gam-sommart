@@ -439,8 +439,8 @@ performance in the model.
     ## # A tibble: 2 x 4
     ##   .metric .estimator .estimate model       
     ##   <chr>   <chr>          <dbl> <chr>       
-    ## 1 rmse    standard       13.0  pred_simple 
-    ## 2 rmse    standard        6.00 pred_complex
+    ## 1 rmse    standard       12.7  pred_simple 
+    ## 2 rmse    standard        5.66 pred_complex
 
 The last thing we do is to fit the model to all the data and predict
 consumption for each station on the validation data. However, the
