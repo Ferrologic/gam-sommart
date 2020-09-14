@@ -3,7 +3,8 @@ title: "What explains district heating consumption?"
 author: "Filip Wästberg"
 date: "`r Sys.Date()`"
 output:
-  md_document
+  github_document:
+    pandoc_args: --webtex
 ---
 
 ```{r setup, include=FALSE}
